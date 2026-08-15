@@ -84,3 +84,10 @@ print("TPU Devices:", tf.config.list_logical_devices("TPU"))
 
 Google Colab was studied as a cloud-based Python and Jupyter Notebook environment. The concepts of CPU, GPU, and TPU were understood, and the methods for enabling and verifying GPU/TPU hardware acceleration in Colab were studied.
 Google Colab provides a convenient platform for executing computationally intensive Machine Learning and Deep Learning experiments without requiring high-end local hardware.
+
+---
+
+### screenshot
+
+<img width="1915" height="832" alt="image" src="https://github.com/user-attachments/assets/4a6303da-2581-4ff7-953d-589ac0ccbf13" />
+
