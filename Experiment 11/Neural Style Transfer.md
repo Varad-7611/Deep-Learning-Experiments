@@ -94,3 +94,9 @@ Where `α` and `β` are weighting hyperparameters that control the relative impo
 
 ## CONCLUSION
 Neural Style Transfer was successfully studied and implemented using a pre-trained CNN. It was observed that by separately capturing and optimizing content representation (from deeper layers) and style representation (via Gram matrices across multiple layers), it is possible to generate a new image that preserves the structural content of one image while adopting the artistic style of another. This demonstrates the powerful ability of CNNs to disentangle and recombine content and style information, making Neural Style Transfer an effective technique for creative and artistic image generation applications.
+
+---
+
+### Screenshot
+
+<img width="614" height="301" alt="image" src="https://github.com/user-attachments/assets/9fe56711-7d1b-41e6-b61f-383d10a2f8d5" />
