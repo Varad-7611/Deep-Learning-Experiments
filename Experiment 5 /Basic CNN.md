@@ -10,6 +10,8 @@ A **Convolutional Neural Network (CNN)** is a class of deep learning algorithms 
 
 CNNs are widely used in computer vision tasks such as image classification, object detection, facial recognition, and medical image analysis due to their ability to automatically learn spatial hierarchies of features from raw pixel data.
 
+---
+
 ### Architecture of a Basic CNN
 A typical CNN consists of the following layers:
 
@@ -42,6 +44,8 @@ A typical CNN consists of the following layers:
 7. **Output Layer**
    Produces the final prediction using an activation function such as **Softmax** (for multi-class classification) or **Sigmoid** (for binary classification).
 
+---
+
 ### Working Principle
 1. The input image is passed through convolutional layers where filters extract low-level features (edges, corners) in the initial layers and high-level features (shapes, objects) in the deeper layers.
 2. Activation functions introduce non-linearity so the network can learn complex relationships.
@@ -50,14 +54,21 @@ A typical CNN consists of the following layers:
 5. The output layer generates class probabilities, and the class with the highest probability is selected as the prediction.
 6. During training, the network uses **backpropagation** and an optimization algorithm (e.g., Adam, SGD) to minimize the **loss function** (e.g., Cross-Entropy Loss) by updating the weights of filters and neurons.
 
+---
+
 ### Advantages of CNN
 - Automatic feature extraction without manual intervention.
 - Parameter sharing reduces the number of trainable parameters.
 - Translation invariance due to pooling operations.
 - High accuracy in image-related tasks compared to traditional machine learning methods.
 
+---
+
 ## CONCLUSION
 The basic Convolutional Neural Network was successfully studied and implemented. It was observed that CNNs are highly effective for image classification tasks because they automatically learn hierarchical spatial features through convolutional and pooling operations, reducing the need for manual feature engineering. The model demonstrated good performance in classifying images by leveraging convolution, activation, pooling, and fully connected layers, confirming CNN's suitability for computer vision applications.
 
 ---
 
+### screenshot
+
+<img width="1411" height="746" alt="Screenshot 2026-08-15 084926" src="https://github.com/user-attachments/assets/cbc88475-245b-4779-a93d-84bff7a92ef7" />
