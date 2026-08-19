@@ -24,4 +24,3 @@ Each experiment is organized into its own folder. Click on any experiment below 
 | 12 | [Image Generation Models](https://github.com/Varad-7611/Deep-Learning-Experiments/tree/main/Experiment%2012) | Exploring generative models (e.g., GANs/Autoencoders) for image generation. |
 
 ---
-
