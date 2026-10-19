@@ -2,8 +2,6 @@
 ## Title : Installing Miniconda and Configuring TensorFlow & Keras 
 ---
 
----
-
 ## 🎯 Aim
 
 To install and configure Miniconda on Windows, create a Python virtual environment, install TensorFlow and Keras, and verify the installation by running a basic TensorFlow program.
