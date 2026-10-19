@@ -1,4 +1,6 @@
-# Google Colab Introduction & GPU/TPU Setup
+# Experiment 2
+
+## *Title*: Google Colab Introduction & GPU/TPU Setup
 
 ## AIM
 
